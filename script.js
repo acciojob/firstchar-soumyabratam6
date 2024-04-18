@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	let testTrim =  text.Trim();
+	let testTrim =  text.trim();
 	return testTrim.charAt(0);
 }
 
